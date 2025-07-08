@@ -10,3 +10,6 @@ MATPLOTLIB
 PIL 
 IMAGE
 
+# youtube live video -->
+# https://www.youtube.com/watch?v=u-ym7BWHO-g&list=PLVlQHNRLflP9vV2_FO8h1yiVD90XhJy8M&index=14
+
